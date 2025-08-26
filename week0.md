@@ -17,7 +17,7 @@ We've got a few set-up tasks to get started ... the following is due by **Friday
 - Make note of the user name you choose - you will need it for the survey.
 
 4. **Submit the class survey**
-- [Survey here](https://airtable.com/appNisQAaK2SV4aoi/shrn5ufq2o62DPBNQ) - password: c++2025prot
 - You will need to know your Discord name before completing the survey
 - You will need to agree to the academic honesty policy in the [syllabus](https://github.com/mab253/cpp_fall25/blob/main/README.md) and the [AI citation policy](https://github.com/mab253/cpp_fall25/blob/main/ai-citations.md) when completing the survey
+- ✨[Survey here](https://airtable.com/appNisQAaK2SV4aoi/shrn5ufq2o62DPBNQ) - password: c++2025prot
 
