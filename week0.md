@@ -15,6 +15,7 @@ We've got a few set-up tasks to get started ... the following is due by **Friday
 3. **Join our Discord server** - you will receive an invite via CCNY email
 - [Instructions here!](https://github.com/mab253/cpp_fall25/blob/main/discord.md)
 - Make note of the user name you choose - you will need it for the survey.
+- If you do not receive an invite by Thurs. Aug. 28th, please reach out to me via email 
 
 4. **Submit the class survey**
 - You will need to know your Discord name before completing the survey
