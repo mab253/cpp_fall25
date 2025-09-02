@@ -75,7 +75,7 @@ zyBooks Week 1 Lab: DUE Sept. 5, 11:59pm
 
 **Assignments:** \
 zyBooks Week 2 Readings: DUE Sept. 10, 11:59pm  \
-zyBookes Week 2 Lab: DUE Sept. 12, 11:59pm
+zyBooks Week 2 Lab: DUE Sept. 12, 11:59pm
 
 
 ---
