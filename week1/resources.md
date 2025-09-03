@@ -6,6 +6,6 @@ other practice + info on input/output and intro to c++ topics from this week:
 - _[Sam's Teach Yourself C++](http://library.uc.edu.kh/userfiles/pdf/20.Sams%20Teach%20Yourself%20C++%20in%2021%20Days.pdf)_, starting p. 25
 - [NetLogo](https://ccl.northwestern.edu/netlogo), language with 🐢 turtles and agent-based modelling discussed in-class
 - https://scratch.mit.edu, for visual programming environment playing around
-- on namespace: [cpp reference](https://en.cppreference.com/w/cpp/language/namespace.html)
+- on `namespace`: [cpp reference](https://en.cppreference.com/w/cpp/language/namespace.html)
 
 
