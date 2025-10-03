@@ -4,9 +4,9 @@
 **Term:** Fall 2025 \
 **Time:** Mondays/Wednesdays 11:00-11:50am (lecture) \
 **Space:** Marshak 117 (lecture) \
-**Recitation:** lab on Fridays, NAC 7/107 (time based on section, CC1 or CC2), w/Professor Riddhi Kadia \
+**Recitation:** lab on Fridays, NAC 7/107 (time based on section, CC1 or CC2), w/Professor Ervin Dsouza \
 **Office Hours:** by appointment, [schedule here](https://www.cal.com/mab253) \
-**E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Riddhi Kadia - `rkadia@ccny.cuny.edu` \
+**E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Ervin Dsouza - `edsouza@ccny.cuny.edu` \
 City College, City University of New York
 
 ## course description
