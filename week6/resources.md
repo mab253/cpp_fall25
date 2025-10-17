@@ -1,6 +1,7 @@
 ## 🤖 other resources: week 6
 
 other practice + info on vectors/arrays and other topics this week:
+- 🖥️ **in-class code**, [mini LLM](https://replit.com/@mab253/mini-LLM#main.cpp)
 - 🖥️ **in-class code**, [project euler #9](https://replit.com/@mab253/projectEuler-9#main.cpp), pythagorean triple
 - 🖥️ **in-class code** [random ghost skyline](https://replit.com/@mab253/ghostSkyline#main.cpp)
 - 🖥️ **another vector code example** [filling vectors with birds](https://replit.com/@mab253/birds-vectors#main.cpp)
