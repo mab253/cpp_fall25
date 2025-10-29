@@ -3,7 +3,8 @@
 _Oct. 27 - Oct. 31, 2025_ \
 **due: Fri. Oct. 31 @ 5:59pm NYC-time 🎃** \
 **➡️👯 [TEAMS
-LIST!](https://airtable.com/appNisQAaK2SV4aoi/shr78Ij1QAOiTCKPn/tblOhGY29sUGqhPVK)**
+LIST!](https://airtable.com/appNisQAaK2SV4aoi/shr78Ij1QAOiTCKPn/tblOhGY29sUGqhPVK)** \
+**💥📄 [INDIVIDUAL FORM](https://airtable.com/appNisQAaK2SV4aoi/shrU3IdqKOjvUAurZ)** ⬅️ every person needs to complete!
 
 ![400-DALL·E 2024-10-20 21 53 16 - A photorealistic image of two lifelike
 cats wearing subtle 90s-style cyberpunk enhancements, such as glowing
@@ -112,7 +113,7 @@ many times as you need before the deadline.
 
 - **Each team member** needs to submit code via zyBooks 16.41, even if
 your team's code is exactly the same.
-- Every person needs to fill out an evaluation form with some individual questions, also by the deadline. I will post this before Friday
+- Every person needs to fill out an [evaluation form with some individual questions](https://airtable.com/appNisQAaK2SV4aoi/shrU3IdqKOjvUAurZ), also by the deadline.
 
 👽 Good luck!
 
