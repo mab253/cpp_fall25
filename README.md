@@ -199,7 +199,7 @@ work on projects!
 
 ## key dates
 - mid-term week with in-class project: Oct. 27-31st
-- final coding pair project: due Dec. 22nd, 12:00pm NOON
+- final coding pair project: due Dec. 21st, 11:59pm
 
 ## materials and references
 
