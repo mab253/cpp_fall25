@@ -1,5 +1,7 @@
 # 💿 final project
 
+## 💥 when you are ready to submit your final code + reflection, [use this form](https://airtable.com/appNisQAaK2SV4aoi/shrcBj9ImBTXJO1oM)! <- 
+
 For your final project in this class, you will code a C++ project from scratch, outside of zyBooks. You have a few options for this assignment, and you'll need to choose 1 of the following:
 
 1. [🛡 Text-Based Adventure Game](#text-based-adventure-game)
@@ -58,7 +60,7 @@ Do you have a project idea that you and your partner really want to build? (Mayb
 
 1. First milestone: choose your project (1, 2, or your own idea) and your partner from your lab section **by Dec. 3rd.** You will need to fill out [this form](https://airtable.com/appNisQAaK2SV4aoi/shry48cqRy1vxxzOo) to share your project choice and your partner by 11:59pm on Dec. 3rd. **Note:** on 👈 this form, if you would like me to match you with a partner, you can choose this preference.
 
-2. Final project delivery, including short reflection texts and code, due **Sunday, Dec. 21st** @ 11:59pm. More details on code delivery to come.
+2. Final project delivery, including short reflection texts and code, due **Sunday, Dec. 21st** @ 11:59pm. Please [use this form](https://airtable.com/appNisQAaK2SV4aoi/shrcBj9ImBTXJO1oM) to submit your final code and reflection.
 
 ## important notes
 
